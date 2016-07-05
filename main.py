@@ -3,6 +3,7 @@
 # define main function
 # assign point values to cards
     # let's use a python dictionary
+import BJdictionary
 # shuffle the deck
     # let's make the deck a list
 # deal to player 1
