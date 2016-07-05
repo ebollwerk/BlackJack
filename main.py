@@ -9,8 +9,8 @@ def main():
     print(bjdic.BJdict)
     print(bjdic.BJdict.keys)
     
-deck=list((bjdic.BJdict.keys()))
-deck=random.shuffle(deck)
+    deck=list((bjdic.BJdict.keys()))
+    deck=random.shuffle(deck)
 
 
 # assign point values to cards
