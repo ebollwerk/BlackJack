@@ -4,8 +4,8 @@ import BJdictionary as bjdic
 
 # define main function
 def main():
-    print(bjdic.BJdictionary['AS'])
-
+    print(bjdic.BJdict['AS'])
+    print(bjdic.BJdict)
 
 
 # assign point values to cards
