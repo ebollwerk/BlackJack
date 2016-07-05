@@ -6,8 +6,9 @@ import BJdictionary as bjdic
 def main():
     print(bjdic.BJdict['AS'])
     print(bjdic.BJdict)
-
-
+    print(bjdic.BJdict.keys)
+    
+deck=list((bjdic.BJdict.keys()))
 # assign point values to cards
     # let's use a python dictionary
 
