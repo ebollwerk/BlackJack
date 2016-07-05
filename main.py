@@ -3,6 +3,11 @@
 import BJdictionary as bjdic
 
 # define main function
+def main():
+    print(bjdic.BJdictionary['AS'])
+
+
+
 # assign point values to cards
     # let's use a python dictionary
 
